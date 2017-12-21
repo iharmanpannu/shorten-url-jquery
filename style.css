@@ -4,7 +4,7 @@ header {
 }
 
 main {
-    background-color: #0087de;
+    background-color: #152A39;
     height: 900px;
     text-align: center;
 }
@@ -12,12 +12,13 @@ main {
 h1 {
     height: 38px;
     font-family: Roboto;
-    font-size: 32px;
+    font-size: 40px;
     font-weight: 300;
     letter-spacing: 0.6px;
     text-align: center;
-    color: #1f233e;
+    color: #FEFFFE;
     padding-top: 137px;
+    text-transform: uppercase;
 }
 
 .logo {
@@ -37,7 +38,7 @@ h1 {
     width: 219px;
     height: 37px;
     border-radius: 3.2px;
-    border: solid 0.8px #1f233e;
+    border: solid 0.8px #FEFFFE;
     background-color: inherit;
     display: block;
     margin: auto;
@@ -52,7 +53,7 @@ h1 {
     width: 91px;
     height: 37px;
     border-radius: 3.2px;
-    border: solid 0.8px #1f233e;
+    border: solid 0.8px #FEFFFE;
     background-color: inherit;
     margin-top: 48px;
     font-family: Source Sans Pro;
@@ -61,6 +62,7 @@ h1 {
     text-align: center;
     color: #ffffff;
     margin-right: -3px;
+    text-transform: uppercase;
 }
 
 #expand {
@@ -68,7 +70,7 @@ h1 {
     height: 37px;
     border-radius: 3.2px;
     background-color: #1f233e;
-    border: solid 0.8px #4a4a4a;
+    border: solid 0.8px #FEFFFE;
     margin-top: 48px;
     font-family: Source Sans Pro;
     font-size: 14px;
@@ -76,6 +78,7 @@ h1 {
     text-align: center;
     color: #ffffff;
     margin-left: -3px;
+    text-transform: uppercase;
 }
 
 #responseField {
